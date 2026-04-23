@@ -63,4 +63,4 @@ Why use a hand-drawn photo?
 
     Also i was having of time management while traveling and exams on head. 
 
-The idea of adding an agent in it is fasinating i will try it for sure after exams.
+By the way its my first time doing this complex project without help of LLM and i know i didnt used class nodes, cause right now i am in second year of my college with my semester exams on head so i am learning these things but it was nice to work on this project. The idea of adding an agent in it is fasinating i will try it for sure after exams.
